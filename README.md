@@ -1,0 +1,1 @@
+Scraping weather data using Python to remind users to bring an umbrella by email
